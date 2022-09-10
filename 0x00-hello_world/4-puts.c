@@ -4,7 +4,7 @@
  * main - Start here
  * Description: prints some statetment
  * Return: 0
- * /
+ */
  
  int main(void)
 {
