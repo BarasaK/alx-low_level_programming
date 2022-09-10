@@ -2,7 +2,7 @@
 
 /**
  * main - Start here
- * Description: prints some statetment
+ * Description: prints "\"Programming is like building a multilingual puzzle"
  * Return: 0
  */
  
