@@ -6,7 +6,7 @@
  * Description: print if no is +ve or -ve
  * Return: 0
  */
-int main (void)
+int main(void)
 {
 	int n;
 	srand(time(0));
