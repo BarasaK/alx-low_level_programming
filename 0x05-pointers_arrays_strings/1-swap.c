@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Desc - swaps int with pointers.
+ * swap_int - swaps int with pointers.
  *
  * @a: is pointer to an int.
  * @b: is pointer to an int.
